@@ -1,0 +1,20 @@
+a p{
+    background-color: blueviolet;
+    width: 20%;
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-style: groove;
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+    margin: 15px auto;
+}
+a p:hover{
+    background-color: crimson;
+    transform: scale(1.2);
+}
+body{
+    text-align: center;
+}
